@@ -27,14 +27,15 @@ Learning Freecodecamp.org!
   .git hidden folder of git repository -> ls -la command to list all files
   .git holds all the changes and commits of the repository
   
-  ##Steps to commit the changes to git hub
+  ## Steps to commit and push the changes to git hub
   
   ->Edit the file
   ->git status : This command shows all the changes made to repository but not saved ie; updated files, deleted files, created files.
   image.png
   ->git add . : To add all the tracked and untracked changes to stage area
   image.png
-  
+  ->git push : to update changes to remote repository where our git hub is hosted
+
   
   
   
