@@ -22,6 +22,22 @@ Learning Freecodecamp.org!
   Go to git profile add new SSH key
                           
   git clone <ssh>
+
+   
+  .git hidden folder of git repository -> ls -la command to list all files
+  .git holds all the changes and commits of the repository
+  
+  ##Steps to commit the changes to git hub
+  
+  ->Edit the file
+  ->git status : This command shows all the changes made to repository but not saved ie; updated files, deleted files, created files.
+  image.png
+  ->git add . : To add all the tracked and untracked changes to stage area
+  image.png
+  
+  
+  
+  
   
   
   
