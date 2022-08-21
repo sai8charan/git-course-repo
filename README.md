@@ -34,8 +34,9 @@ Learning Freecodecamp.org!
   image.png
   ->git add . : To add all the tracked and untracked changes to stage area
   image.png
-  ->git push : to update changes to remote repository where our git hub is hosted
+  ->git push origin <branch name>: to update changes to remote repository where our git hub is hosted
 
+## Steps to initalize git repo from local repository
   
   
   
